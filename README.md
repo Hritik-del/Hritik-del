@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **hritikagrahari786@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1ZGKw8BHRPFdGK5TzBefjTWNGtoN4mjmH/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1ZGKw8BHRPFdGK5TzBefjTWNGtoN4mjmHabcd/view?usp=sharing)
 
 - ⚡ Fun fact **I don’t write bugs; I compose features with unexpected harmonies.**
 
